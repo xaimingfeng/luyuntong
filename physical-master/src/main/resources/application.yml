@@ -1,0 +1,9 @@
+###########################通用配置###############################
+spring: #默认profiles
+  profiles:
+    active: jpa
+server:
+  servlet:
+    session:
+      timeout: 60s
+  port: 8080
