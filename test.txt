@@ -1,1 +1,9 @@
 使用ssh方式上传代码测试
+git创建分支：
+  git clone remote_url
+  git remote add origin remote_url
+  git branch -a(查看所有分支包括本地分支和远程分支)
+  git branch -r(查看远程分支)
+  git checkout -b branchname(直接新建一个分支然后切换至新创建的分支).就是创建加切换分支. == git branch branchname+git checkout branchname.
+  提交分支
+  git push origin: branchname
