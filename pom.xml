@@ -4,14 +4,16 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.aygxy.xmf</groupId>
-    <artifactId>physical-distribution-management</artifactId>
+    <groupId>com.aygxy</groupId>
+    <artifactId>luyuntong</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
 
     <name>luyuntong</name>
-    <description>Physical Distribution Management</description>
+    <!--
+        <description>luYunTong</description>
+    -->
 
     <!--jar包版本控制-->
     <properties>
