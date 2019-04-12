@@ -15,8 +15,8 @@
     <!--<property name="log_dir" value="/data/app/vat-log/vat-h5-logs" />-->
     <property name="log_dir" value="logs" />
 
-    <!-- 日志最大的历史 30天 -->
-    <property name="maxHistory" value="30" />
+    <!-- 日志最大的历史 10天 -->
+    <property name="maxHistory" value="10" />
     <!--单个文件达到 最大1GB时会被压缩和切割 -->
     <property name="maxFileSize" value="1GB" />
     <!-- 日志总保存量为30GB -->
